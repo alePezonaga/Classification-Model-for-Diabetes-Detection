@@ -1,1 +1,1 @@
-# Modelo-Clasificatorio-para-la-Detecci-n-de-Diabetes-
+Este proyecto implementa un flujo completo de Ciencia de Datos (Data Science) utilizando Python. El objetivo principal es predecir si un paciente padece o no diabetes (Outcome) a partir de diversas características médicas como los niveles de glucosa en sangre, índice de masa corporal (BMI), presión sanguínea, entre otros.   Se ha empleado el dataset clásico de Pima Indians Diabetes, aplicando técnicas de preprocesamiento, imputación de valores faltantes y análisis exploratorio de datos (EDA).   
